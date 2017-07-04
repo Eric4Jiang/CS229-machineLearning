@@ -13,3 +13,7 @@ Week 4 - Neural Network Learning
 Week 5 - Bias and Variance Debugging
 
 Week 6 - Support Vector Machines
+
+Week 7 - K-Means and Principal Component Analysis
+
+Week 8 - Anomaly Detection and Recommender's System
