@@ -2,6 +2,8 @@
 
 [Coursera link to course](https://www.coursera.org/learn/machine-learning/home/welcome)
 
+[My Course Certificate](https://www.coursera.org/account/accomplishments/certificate/Z8U7MZUT5N49)
+
 Week 1 - Linear Regression
 
 Week 2 - Logistic Regression
